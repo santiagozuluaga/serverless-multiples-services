@@ -1,0 +1,6 @@
+services:
+  serverless-multiples-services-posts:
+    path: posts
+ 
+  serverless-multiples-services-users:
+    path: users

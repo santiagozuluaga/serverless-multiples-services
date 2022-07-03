@@ -1,0 +1,10 @@
+{
+  "name": "serverless-multiples-services",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@serverless/compose": "^1.2.4",
+    "serverless-offline": "^8.8.0"
+  }
+}
